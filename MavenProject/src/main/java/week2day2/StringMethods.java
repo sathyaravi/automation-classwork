@@ -92,6 +92,11 @@ public class StringMethods {
 		        System.out.print(i + "," + j + " ");
 		    }
 		}
-
+		
+		String stw = new String("apple");
+		System.out.println(stw);
+		
+		String s = "sample";
+		System.out.println(s);
 	}
 }

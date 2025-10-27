@@ -26,8 +26,7 @@ public class DropdownOptions {
 		
 		//WebElement currencyDropdown = driver.findElement(By.id("createLeadForm_currencyUomId"));
 		//Select preferredCurrency = new Select(currencyDropdown);
-		
-
+		driver.close();
 	}
 
 }
